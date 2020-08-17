@@ -6,7 +6,7 @@
         "gplink"
     ],
     "website": "https://github.com/Mahesh0253/GPlink-bot",
-    "repository": "https://github.com/Mahesh0253/GPlink-bot",
+    "repository": "https://github.com/cdfxscrq/GPlink-bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
