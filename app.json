@@ -14,11 +14,11 @@
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "1680362"
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "8cebfa99b9719c28a5e16fedaa0eeaad"
         },
         "API_KEY": {
             "description": "Get API key from https://gplinks.in/member/tools/api",
