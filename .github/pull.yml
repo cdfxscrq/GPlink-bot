@@ -3,9 +3,3 @@ rules:
   - base: master
     upstream: Mahesh0253:master
     mergeMethod: merge
-    assignees:
-      - Mahesh0253
-    reviewers:
-      - Mahesh0253
-    conflictReviewers:
-      - Mahesh0253
