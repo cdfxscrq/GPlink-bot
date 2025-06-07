@@ -3,22 +3,25 @@
     "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
     "keywords": [
         "telegram",
-        "gplink"
+        "gplink",
+        "bot",
+        "opensource"
     ],
     "website": "https://github.com/Mahesh0253/GPlink-bot",
     "repository": "https://github.com/cdfxscrq/GPlink-bot",
+    "version": "2.0.0",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token",
-            "value": ""
+            "description": "Your Telegram bot token from @BotFather",
+            "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
-            "value": "1680362"
+            "description": "Get this value from https://my.telegram.org (API development tools)",
+            "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
-            "value": "8cebfa99b9719c28a5e16fedaa0eeaad"
+            "description": "Get this value from https://my.telegram.org (API development tools)",
+            "required": true
         },
         "API_KEY": {
             "description": "Get API key from https://gplinks.in/member/tools/api",
